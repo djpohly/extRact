@@ -22,6 +22,7 @@
         <item>Google Photos</item>
         <item>Union</item>
         <item>Mega</item>
+        <item>S3 Bucket</item>
     </array>
 
     <array name="provider_summaries">
@@ -46,5 +47,6 @@
         <item>Cloud Photo Storage</item>
         <item>Merge multiple remotes into one</item>
         <item>Cloud file storage</item>
+        <item>Cloud Object storage</item>
     </array>
 </resources>

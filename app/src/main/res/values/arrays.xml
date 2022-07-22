@@ -33,6 +33,7 @@
         <item>GOOGLE_PHOTOS</item>
         <item>UNION</item>
         <item>MEGA</item>
+        <item>S3</item>
     </array>
 
     <integer-array name="provider_icons">
